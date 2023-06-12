@@ -1,0 +1,36 @@
+.tituloterceiro{
+    font-size: 5em;
+    margin-top: 6em;
+    color: orange;
+    padding: 0.5em;
+}
+ 
+.um{
+    width: 4em;
+    height: 4em;
+}
+
+.caixa{
+    border: 1px solid orange;
+    padding: 3em;
+    width: 20em;
+    height: 15em;
+    margin: 1.5em;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.coisas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center
+}
+
+h3{
+    color: orange;
+    font-size: 2em;
+    padding: 0.5em
+}

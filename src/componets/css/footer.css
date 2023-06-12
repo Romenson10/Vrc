@@ -1,0 +1,40 @@
+.rodape{
+    background: #abb8c3;
+}
+
+.rodape__texto{
+    font-size: 3em;
+    color: white;
+}
+
+.list__logo svg{
+    font-size: 3em;
+    padding: 0.5em;
+}
+
+.list__logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.list__descricao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.doisdois{
+    padding: 1em;
+    
+}
+
+.ancora{
+    color: white;
+    font-size: 1.5em;
+}
+
+.copyright{
+    color: white;
+    padding: 2em;
+}

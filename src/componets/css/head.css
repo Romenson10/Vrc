@@ -1,0 +1,43 @@
+.titulo {
+  font-size: 2em;
+  padding: 2em;
+  color: white;
+  
+}
+.conhecer:hover{
+  padding: 1em;
+}
+.conhecer{
+  background: #f48345;
+  padding: 0.8em;
+  text-decoration: none;
+  color: white;
+  border-radius: 0.5em;
+  font-size: 1.5em;
+  transition: 1s;
+}
+.comecoimg {
+  width: 28em;
+  height: 30em;
+  border-radius: 2em;
+  box-shadow: 1em 1em 1em 1em #575656 ;
+}
+
+.comeco {
+  display: flex;
+  align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.segundo {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 5em;
+  background: #abb8c3;
+}
+
+
+
+

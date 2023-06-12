@@ -1,0 +1,60 @@
+.primeiro {
+  background: #7a7a7a;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.item {
+  padding: 2em;
+  list-style: none;
+  color: white;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.buttondois:hover {
+  padding: 0.6em;
+  transition: 1s;
+}
+.buttonum:hover {
+  padding: 0.6em;
+  transition: 1s;
+}
+
+.logopng {
+  width: 7em;
+  height: 3em;
+  margin-top: 1em;
+  padding: 1em;
+}
+
+.buttonum {
+  background: #f48345;
+  padding: 0.5em;
+  text-decoration: none;
+  color: white;
+  border-radius: 0.5em;
+  font-size: 1.5em;
+  transition: 1s;
+}
+
+.buttondois {
+  background: #575656;
+  padding: 0.5em;
+  margin: 1em;
+  text-decoration: none;
+  color: white;
+  border-radius: 0.5em;
+  font-size: 1.5em;
+  transition: 1s;
+}
+
+header {
+  height: 7em;
+}
